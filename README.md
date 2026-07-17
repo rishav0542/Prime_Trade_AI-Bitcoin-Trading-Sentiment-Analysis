@@ -18,5 +18,6 @@ Analyze how Bitcoin Fear/Greed sentiment affects trader behavior and performance
 ### How to Run
 ```bash
 # 1. Place the two CSV files in the same folder
-python primetrade_full_solution.py          # Full analysis + charts
-streamlit run streamlit_dashboard.py        # Interactive explorer
+ PrimeTradeAi_Assignment.ipynb       # Full analysis + charts
+
+
